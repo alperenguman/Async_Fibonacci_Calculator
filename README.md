@@ -1,7 +1,7 @@
 # Asynchronous Processing Demo in C#
 
 This project is a simple fibonacci calculator. It returns the Nth fibonacci number in the sequence. 
-The method that does the calculation is intentionally slowed down intentionally to demonstrate async processing.
+The method that does the calculation is slowed down intentionally to demonstrate async processing.
 
 ## Getting Started
 
